@@ -1,0 +1,80 @@
+body{
+                 background:  url(https://i.pinimg.com/originals/ec/80/d3/ec80d334bf8782c67d446e554cb138c6.jpg);
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+        
+          background-size: cover;
+             
+            }
+            .About-container
+            {
+               background-attachment: fixed;
+              background-color: darkcyan;
+               border-radius:15px ;
+                   
+              
+                padding-top: 50px;
+                padding-bottom: 50px;
+               padding-right: 500px;
+               
+          
+              
+               
+                color: wheat;
+            }
+   .navbar{
+        background-image: url(https://i.ibb.co/Lx8w1CS/unnamed.jpg);
+               background-repeat: no-repeat;
+               background-size: cover;
+               margin: 0 auto;
+               margin-bottom: 150px;
+    }
+    
+    .navbar-nav{
+        font-size: 20px;
+       font-weight: bold;
+        margin: 0 auto;
+    }
+    
+    
+    .nav-link{
+         margin-left: 50px;
+        
+    }
+    .light{
+        background-color: wheat;
+    }
+     .line{
+        margin-top: 1px;
+        margin-left: 50px;
+        background-color: #cccccc;
+    }
+    .img-fluid{
+     width: 2600px;
+     height: 250px;
+     
+    }
+    .Error{
+        color: red;
+        margin-left: 80px;
+     visibility: hidden;
+       
+    }
+
+    .forgt{
+      margin-left: 80px;
+    }
+    h1{
+        margin-left: 750px;
+        margin-bottom: 50px;
+    }
+    p{
+        font-size: 25px;
+        margin-left: 750px;
+    }
+    .btn{
+        margin-left: 750px;
+    }
+    h5{
+        margin-left: 750px;
+    }
